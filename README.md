@@ -5,7 +5,7 @@ Automate some instagram tasks
 Run in with
 
 ```
-USERNAME=mercadaodascarnesreal PASSWORD=arturesilverio TAGREGT=target_user_name node server.js
+USERNAME=usuario PASSWORD=senha TAGREGT=target_user_name node server.js
 ```
 
 ## Functions
